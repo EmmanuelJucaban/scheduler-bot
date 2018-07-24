@@ -4,3 +4,5 @@ env.sh
 credentials.json
 token.json
 config.js
+fookbot.json
+.eslintrc.json
