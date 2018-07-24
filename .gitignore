@@ -3,3 +3,4 @@ package-lock.json
 env.sh
 credentials.json
 token.json
+config.js
